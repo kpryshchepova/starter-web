@@ -7,5 +7,6 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 This is a simle web project, deployment can be on any wev server or even local file system.
 ## How to Contribute
+Please fork this repository and then issue Pull Requests for review.
 ### Copyright
 2021 Git.Training
