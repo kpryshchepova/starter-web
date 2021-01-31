@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kate Pryshchepava	kpryshchepava@gomel.iba.by	@kpryshchepava
 
 # THANKS
 
