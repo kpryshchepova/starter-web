@@ -9,4 +9,4 @@ This is a simle web project, deployment can be on any wev server or even local f
 ## How to Contribute
 Please fork this repository and then issue Pull Requests for review.
 ### Copyright
-2021 Git.Training
+2021 Git.Training. All rights reserved.
